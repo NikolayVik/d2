@@ -20,6 +20,7 @@ struct ContentView: View {
             CheckBox(value: $checkBox)
         }
         .padding(.horizontal, 20)
+        //ttttt
     }
 }
 
